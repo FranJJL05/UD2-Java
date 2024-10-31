@@ -1,6 +1,7 @@
 package relación5variables;
 
 public class ejercicio3 {
+    public static void main (String args[]){
     // 3-
     // a)
     double resultado = (3.0 / 2.0) + (4.0 / 3.0);
@@ -35,4 +36,5 @@ public class ejercicio3 {
     // k)
     double resultado = ((a * a) + (2.0 * a * b) + (b * b)) / (((1.0 * x) / 2.0) + 2.0);
 
+}
 }

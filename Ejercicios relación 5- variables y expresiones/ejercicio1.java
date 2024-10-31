@@ -1,6 +1,7 @@
 package relación5variables;
 
 public class ejercicio1 {
+public static void main (String args[]){
 //1- 
 // a) 
 int p = 10;
@@ -48,7 +49,7 @@ boolean ultimo = false;
 String nomb = "Fran";
 
 }
-
+}
 
 
 

@@ -1,6 +1,7 @@
 package relación5variables;
 
 public class ejercicio4 {
+     public static void main (String args[]){
     
 //4-
 int x,y;
@@ -63,4 +64,5 @@ System.out.println(x+y+n+m)
 //q)
 System.out.println(x*y*m*n)
 
+}
 }

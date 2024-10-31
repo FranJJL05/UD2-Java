@@ -1,6 +1,7 @@
 package relación5variables;
 
 public class ejercicio2 {
+    public static void main (String args[]){
     // 2-
     // a)
     byte edad = 19;
@@ -67,4 +68,5 @@ public class ejercicio2 {
     String tallacamiseta = "M";
     String tallacamiseta = "L";
     String tallacamiseta = "XL";
+}
 }
